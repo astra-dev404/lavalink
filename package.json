@@ -1,0 +1,27 @@
+{
+
+  "name": "lavalink",
+
+  "version": "1.0.0",
+
+  "main": "lavalink.js",
+
+  "author": "ASTRA",
+
+  "license": "MIT",
+
+  "dependencies": {
+
+    "dotenv": "^8.2.0",
+
+    "got": "^11.8.1"
+
+  },
+
+  "scripts": {
+
+   "start": "bash start.sh"
+
+  }
+
+}
